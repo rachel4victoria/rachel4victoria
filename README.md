@@ -14,7 +14,7 @@
     <img align="center" height="40" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
-
+<div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: rachel4victoria@gmail.com">
       <img width="35" src="/img/gmail.svg">
