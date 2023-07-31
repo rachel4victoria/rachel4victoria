@@ -16,20 +16,17 @@
   </div>
 
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: rachel4victoria@gmail.com">
+      <img width="35" src="/img/gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
+      <img width="30" src="/img/linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+      <img width="30" src="/img/instagram.png">
     </a>
 </div>
     
-
+![Snake animation](https://github.com/rachel4victoria/rachel4victoria/blob/output/github-contribution-grid-snake.svg)
 
 
